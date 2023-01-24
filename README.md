@@ -1,1 +1,2 @@
-# JS-QUIZ-
+# JavaScript Quiz
+
